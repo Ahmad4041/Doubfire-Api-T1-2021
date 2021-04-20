@@ -9,9 +9,9 @@ name: Ruby
 
 on:
   push:
-    branches: [ master ]
+    branches: [ T1-2021 ]
   pull_request:
-    branches: [ master ]
+    branches: [ T1-2021 ]
 
 jobs:
   test:
